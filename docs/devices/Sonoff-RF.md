@@ -42,3 +42,14 @@ RF units produced after 6/2018 use a different procedure for pairing.
 
 - Press and hold the button for 3-seconds until the red light flashes once, then press then button on your remote to program. 
 - Press and hold for button for 5-seconds until the red light flashes twice to clear remote programming.
+
+### Version 3 Pairing Instructions
+The Sonoff RF R3 can be programmed for multiple RF commands from different sources.
+
+To Program 
+1: On the Sonoff, Press and hold the button for one red flash.
+2: On the RF remote, Press and hold a button.
+
+To Erase
+1: On the Sonoff, Press and hold the button for three red flashes.
+2: On the RF remote, Press and hold a button . If you do not press the button on the RF remote the Sonoff will not be erased.
